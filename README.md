@@ -1,2 +1,2 @@
 # Group37OnlineVotingSystem
-hi
+Current situation: Due to technical reasons, we were unable to complete the construction of the entire APP. Through some learning theories and some planning goals, we will further improve the entire project. According to the current situation, we have completed the initial basic app structure (including login and database user data storage, basic voting interface, etc.)
